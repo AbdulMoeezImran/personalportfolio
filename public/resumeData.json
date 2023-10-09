@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Abdul Moeez Imran",
+    "occupation": "WEB DEVELOPER",
+    "description": "Full Stack Web Developer by Day, Freelancer by Night.",
+    "image": "moeez.jpeg",
+    "bio": "My name is Abdul Moeez, I'm a Full Stack Web Developer.",
+    "contactmessage": "Get in touch with me to receive further details, get your web app now.",
+    "email": "moeezimran6@gmail.com",
+    "phone": "+92 323 4682859",
+    "address": {
+      "street": "ST 13/A TOHEED PARK DAROGHAWALA",
+      "city": "Lahore",
+      "state": "Pakistan",
+      "zip": "05472"
+    },
+    "website": "#",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/abdul.moeez.9809672/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/moeez-imran-6a9b01266/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abdul.moeez.imran/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AbdulMoeezImran",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Virtual University, Lahore",
+        "degree": "Associate Degree in Software Engineering",
+        "graduated": "Expected March 2025",
+        "description": "Expect to graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fiverr",
+        "title": "Freelancer",
+        "years": "April 2020 - Present",
+        "description": "Freelancing Developer."
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Crwn Clothing App",
+        "category": "Crwn Clothing app build with ReactJs",
+        "image": "crwnclothing.png",
+        "url": "https://crwnclothing.netlify.app/"
+      },
+      {
+        "title": "Nasa Project",
+        "category": "Zoom clone made with Mern Stack",
+        "image": "nasaproject.png",
+        "url": "https://github.com/AbdulMoeezImran/NASA-PROJECT"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "A very Hard working guy. Keep up the good work and never lose your will to learn.",
+        "user": "Sohaib Latif"
+      },
+      {
+        "text": "Abdul Moeez is the most passionate i ever thought. I am sure he will be an amazing developer in no time",
+        "user": "Atif Khan"
+      }
+    ]
+  }
+}
