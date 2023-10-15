@@ -15,7 +15,7 @@
       "zip": "05472"
     },
     "website": "#",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "resume.pdf",
     "social": [
       {
         "name": "facebook",
@@ -84,7 +84,7 @@
       },
       {
         "name": "PostgreSQL",
-        "level": "65%"
+        "level": "70%"
       },
       {
         "name": "Git",
@@ -106,9 +106,15 @@
       },
       {
         "title": "Nasa Project",
-        "category": "Zoom clone made with Mern Stack",
+        "category": "Nasa Project App made with Mern Stack",
         "image": "nasaproject.png",
         "url": "https://github.com/AbdulMoeezImran/NASA-PROJECT"
+      },
+      {
+        "title": "Smart-Brain",
+        "category": "Smart-Brain App made with Mern Stack",
+        "image": "smartbrain.png",
+        "url": "https://github.com/AbdulMoeezImran/face-recognition-brain"
       }
     ]
   },
